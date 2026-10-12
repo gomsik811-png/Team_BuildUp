@@ -1,3 +1,14 @@
+# 3차 · PL:UG · 류현우 개인 보관본
+
+팀 프로젝트의 코드·브랜치·커밋 이력을 보관한 개인 Fork입니다.
+
+- 개인 작업과 문제 해결 기록: [개인 기여 문서](docs/personal-contribution.md)
+- 원본 팀 저장소: [PSK6262/Team_BuildUp](https://github.com/PSK6262/Team_BuildUp)
+- 보관일: 2026-10-12
+- 기존 팀원·작성자 기록을 유지하며, 아래는 원본 팀 README입니다.
+
+---
+
 # ⚽ PL:UG
 ### 프리미어리그(EPL) 팬들을 위한 올인원 축구 커뮤니티 플랫폼
 
